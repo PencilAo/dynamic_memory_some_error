@@ -1,0 +1,39 @@
+﻿  dynamic_memory_some_error.c
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(8,20): warning C4013: “malloc”未定义；假设外部返回 int
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(8,30): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(14,5): error C2084: 函数“int main()”已有主体
+  E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(6,5):
+  参见“main”的前一个定义
+  
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(16,30): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(17,18): error C2065: “NULL”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(17,11): warning C4047: “==”:“int *”与“int”的间接级别不同
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(19,9): warning C4013: “printf”未定义；假设外部返回 int
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(19,22): warning C4013: “strerror”未定义；假设外部返回 int
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(19,36): error C2065: “errno”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(26,5): warning C4013: “free”未定义；假设外部返回 int
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(27,13): error C2065: “NULL”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(27,7): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(38,13): error C2065: “NULL”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(38,7): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(45,30): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(46,18): error C2065: “NULL”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(46,11): warning C4047: “==”:“int *”与“int”的间接级别不同
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(48,36): error C2065: “errno”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(57,13): error C2065: “NULL”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(57,7): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(64,30): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(65,18): error C2065: “NULL”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(65,11): warning C4047: “==”:“int *”与“int”的间接级别不同
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(67,36): error C2065: “errno”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(72,13): error C2065: “NULL”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(72,7): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(82,30): warning C4312: “类型强制转换”: 从“int”转换到更大的“int *”
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(83,18): error C2065: “NULL”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(83,11): warning C4047: “==”:“int *”与“int”的间接级别不同
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(85,36): error C2065: “errno”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(86,17): warning C4098: “test”:“void”函数返回值
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(89,5): warning C4013: “scanf”未定义；假设外部返回 int
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(92,17): warning C4098: “test”:“void”函数返回值
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(95,13): error C2065: “NULL”: 未声明的标识符
+E:\code\test\dynamic_memory_some_error\dynamic_memory_some_error\dynamic_memory_some_error.c(95,7): warning C4047: “=”:“int *”与“int”的间接级别不同
