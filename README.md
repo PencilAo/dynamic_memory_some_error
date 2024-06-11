@@ -1,0 +1,2 @@
+# dynamic_memory_some_error
+动态内存管理中一些常见的错误
